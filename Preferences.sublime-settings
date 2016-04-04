@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"theme": "Fox.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

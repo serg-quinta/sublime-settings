@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Compare Side-By-Side",
+		"CSS Unminifier",
+		"Emmet",
+		"FileDiffs",
+		"Jade",
+		"Jade Build",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Ultimate",
+		"LESS",
+		"Less2Css",
+		"Nodejs",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"Theme - Fox"
+	]
+}
